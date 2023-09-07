@@ -1,4 +1,4 @@
-# (1) Python Basic Constructs
+# Python Basic Constructs
 - Getting Started with Python
 - Version of Python, Keywords and Identifiers in Python
 - Variables in Python
